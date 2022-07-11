@@ -1,7 +1,8 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=안녕하세요:D&height=150&fontSize=60&desc=김유림입니다.&descAlignY=75&descAlign=60)
 
+<!--
 <br>
-<h4>3년차 Java 백엔드 개발자로 근무하고 있습니다.</h4>
+<h4>3년차 Java 백엔드 개발자로 근무하고 있습니다.</h4>-->
 
 <br>
 <div><h1>✨My Skills✨</h1></div>
