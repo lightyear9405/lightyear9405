@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=안녕하세요'◡'✿&height=150&fontSize=60&desc=김유림입니다.&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=안녕하세요:)&height=150&fontSize=60&desc=김유림입니다.&descAlignY=75&descAlign=60)
 
 <!--
 <br>
