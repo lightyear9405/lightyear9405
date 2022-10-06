@@ -5,7 +5,10 @@
 <h4>3년차 Java 백엔드 개발자로 근무하고 있습니다.</h4>-->
 
 <br>
-<div><h1>✨My Skills✨</h1></div>
+<div><h2>Hi, I'm yurim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"></h2></div> 
+
+
+<!--<div><h1>✨My Skills✨</h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">  </div>-->
 
 <div >
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
