@@ -4,7 +4,6 @@
 <div><h2>Hi, I'm yurim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"></h2></div> 
 <h4>- 🧑‍💻 I’m currently working as developer for java</h4>
 <h4>- 🌱 I’m currently learning Linux/Cloud and algorithm </h4>
-<h4>- 😊 I’m passionate about solving problems and making the world a better place through programming</h4>
 
 <!--
 - 👯 I’m looking to collaborate on ...
