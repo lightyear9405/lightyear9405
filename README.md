@@ -43,8 +43,8 @@
 <br>
 <div><h2>📫 Contact </h2> </div>
 <h4>- Email: lightyear9405@gmail.com </h4>
-<h4>- Blog : https://lightyear9405.tistory.com </h4>
-
+<!-- <h4>- Blog : https://lightyear9405.tistory.com </h4>
+ -->
 <!--
 ![lightyear9405's github stats](https://github-readme-stats.vercel.app/api?username=lightyear9405&show_icons=true)
 [![lightyear9405's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lightyear9405&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lightyear9405)
