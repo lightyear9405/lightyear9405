@@ -43,6 +43,13 @@
 <br>
 <div><h2>📫 Contact </h2> </div>
 <h4>- Email: lightyear9405@gmail.com </h4>
+
+## GitHub Stats
+![Overview](https://raw.githubusercontent.com/lightyear9405/github-stats-transparent/output/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/lightyear9405/github-stats-transparent/output/generated/languages.svg)
+
+
+
 <!-- <h4>- Blog : https://lightyear9405.tistory.com </h4>
  -->
 <!--
