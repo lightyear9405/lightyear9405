@@ -3,18 +3,6 @@
 <br>
 <div><h2>Hi, I'm yurim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"></h2></div> 
 <h4>- 🧑‍💻 I’ve been working as a developer since 2020. </h4>
-<!-- <h4>- 🌱 Currently studying machine learning with Python, as well as Linux and algorithms. </h4> -->
-<!-- <h4>- 🛠  I enjoy building reliable systems and writing clean, readable code. </h4> -->
-<!-- <h4>- 🔍 Learn more about me in my portfolio </h4> -->
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <br>
 <div><h2>My Skills✨</h2> </div>
@@ -39,29 +27,10 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-
 <br>
-<div><h2>📫 Contact </h2> </div>
-<h4>- Email: lightyear9405@gmail.com </h4>
+<div><h2>🔍 GitHub Stats </h2> </div>
 
-## GitHub Stats
 ![Overview](https://raw.githubusercontent.com/lightyear9405/github-stats-transparent/output/generated/overview.svg)
 ![Languages](https://raw.githubusercontent.com/lightyear9405/github-stats-transparent/output/generated/languages.svg)
 
 
-
-<!-- <h4>- Blog : https://lightyear9405.tistory.com </h4>
- -->
-<!--
-![lightyear9405's github stats](https://github-readme-stats.vercel.app/api?username=lightyear9405&show_icons=true)
-[![lightyear9405's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lightyear9405&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lightyear9405)
-
-
-
-### Hi there 👋
-**lightyear9405/lightyear9405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
