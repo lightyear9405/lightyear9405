@@ -3,9 +3,9 @@
 <br>
 <div><h2>Hi, I'm yurim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"></h2></div> 
 <h4>- 🧑‍💻 I'm a backend developer working mainly with Java. </h4>
-<h4>- 🌱 Currently studying machine learning with Python, as well as Linux and algorithms. </h4>
-<h4>- 🛠  I enjoy building reliable systems and writing clean, readable code. </h4>
-<h4>- 🔍 Learn more about me in my portfolio </h4>
+<!-- <h4>- 🌱 Currently studying machine learning with Python, as well as Linux and algorithms. </h4> -->
+<!-- <h4>- 🛠  I enjoy building reliable systems and writing clean, readable code. </h4> -->
+<!-- <h4>- 🔍 Learn more about me in my portfolio </h4> -->
 
 <!--
 - 👯 I’m looking to collaborate on ...
